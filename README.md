@@ -55,11 +55,11 @@ https://www.kaggle.com/datasets/fratzcan/usa-house-prices
 ## 💡 Key Insights
 - Statistical significance ≠ predictive importance  
 - Feature selection should be guided by performance metrics  
-- Combining sklearn and statsmodels improves analysis  
-
+ 
 ---
 
 ## 👤 Author
 Tebogo Mosehle
 
 📫 [tebogomosehle10@gmail.com]
+
