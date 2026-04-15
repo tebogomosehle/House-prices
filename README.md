@@ -11,7 +11,7 @@ This project builds a Linear Regression model to predict house prices and analyz
 Dataset obtained from Kaggle:  
 https://www.kaggle.com/datasets/fratzcan/usa-house-prices 
 - Size: 4140 entries, 17 features  
-- Target variable: `Price'
+- Target variable: Price
 
 ---
 
