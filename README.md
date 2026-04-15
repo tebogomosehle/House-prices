@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/fratzcan/usa-house-prices
 
 ## 📈 Results
 
-- Final RMSE: **~190,918**
+- Final RMSE: **~190,858**
 - R² remained relatively stable (~0.63)
 
 ✔️ Model improvements reduced prediction error while maintaining explanatory power.
